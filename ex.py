@@ -30,8 +30,24 @@ print(sentence2)
 
 #Excercise-5
 
+leng = 'Hello, how are you today?'
+print(leng)
+print(len(leng))
+
 #Exercise-6
+
+string1 = 'Nice to see you.'
+string2 = 'Nice to see you too buddy.'
+string3 = string1 + string2
+print(string3)
 
 #Exercise-7
 
+string3 = string1 + " " + string2
+print(string3)
+
 #Exercise-8
+
+print("bazinga")
+print("bazinga"[2:6])
+     
