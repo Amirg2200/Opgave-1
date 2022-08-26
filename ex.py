@@ -1,3 +1,4 @@
+#Opgave 1. Den skal afleveres til emailen "mtal@kea.dk"
 #Exercise-1
 
 word = 'It is your fault! "he said"'
