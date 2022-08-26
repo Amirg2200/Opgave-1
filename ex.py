@@ -1,6 +1,6 @@
 #Exercise-1
 
-word = 'Hemiska hora! "sagdi hann"'
+word = 'It is your fault! "he said"'
 
 print(word)
 
@@ -14,8 +14,8 @@ print(word2)
 #Exercise-3
 
 sentence = """     How are you dear
-                   Embla? I hope you are doing
-                   good          """
+     child? I hope you are doing good"""
+    
 
 print(sentence)
 
